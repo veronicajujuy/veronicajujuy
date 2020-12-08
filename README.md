@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/66653416/101537284-fa69dd00-3979-11eb-8512-38b0b3cc9030.jpeg" width="854" /></p>
 <h1 align="center">Hi 👋, I'm Veronica Valdez</h1>
 <h3 align="center">I'm a Programmer Analyst, graduated of the Universidad Nacional de Jujuy in Argentina. After years of experience in institucional link, event and student's group organization, i made the desition of reorient my carreer, with the aim of resuming my profession in IT, and contribute with my acquired experience. The past year, i rediscovered my passion for programming and achieved a full stack web develper certification This repository is a prove of my new skills. Welcome!!</h3>
 
