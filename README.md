@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/66653416/101537284-fa69dd00-3979-11eb-8512-38b0b3cc9030.jpeg" width="854" /></p>
-<h1 align="center">Hi 👋, I'm Veronica Valdez</h1>
+<h1 align="center"> Hi 👋, I'm Veronica Valdez  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 <h3 align="center">I'm a Programmer Analyst, graduated of the Universidad Nacional de Jujuy in Argentina. After years of experience in institucional link, event and student's group organization, i made the desition of reorient my carreer, with the aim of resuming my profession in IT, and contribute with my acquired experience. The past year, i rediscovered my passion for programming and achieved a full stack web develper certification This repository is a prove of my new skills. Welcome!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veronicajujuy&label=Profile%20views&color=0e75b6&style=flat" alt="veronicajujuy" /> </p>
@@ -57,7 +57,7 @@ const veronica = {
 
 
 </br></br>
-<h2>💻 Some stats 💻</h2>
+<h2> Some stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=veronicajujuy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
