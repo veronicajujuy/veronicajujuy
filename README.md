@@ -17,10 +17,9 @@ const veronica = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["PostgreSQL"],
-      mobile: ["Android", "IOS"]
+      databases: ["PostgreSQL", "MySQL"]
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["teacher on a Developer Academy"],
 };
 ```
 
