@@ -1,10 +1,17 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/66653416/101537284-fa69dd00-3979-11eb-8512-38b0b3cc9030.jpeg" width="854" /></p>
-<h1 align="center"> Hi 👋, I'm Veronica Valdez  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
+<h1 align="center"> 👋 Hi, I'm/ Olá, sou Veronica Valdez  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 <h3 align="center">Good morning, I'm Verónica Valdez, Analyst Programmer and Full Stack web Developer, graduated from the National University of Jujuy in Argentina. 
 After years of experience in institutional liaison, organization of events and student groups, I decided to redirect my career, with the aim of returning to my profession in IT, and bring my acquired experience. I got certified as a Full Stack web developer three years ago and started working in an EdTech company.
 Currently I work as a technology teacher at Digital House and I teach Full Stack, Database and Introduction to Computer Science.
 My current stack is MERN, I work with MySQL, Express, React and Node, but I am constantly updating my knowledge.
 I have a pending debt with development, I would like to work as a developer in a technology company. This repository is a prove of my new skills. Welcome!!</h3>
+
+<h3 align="center">Bom dia, sou Verónica Valdez, Analista de Programação e Desenvolvedor Web Full Stack, formada pela Universidade Nacional de Jujuy, na Argentina.
+Após anos atuando em cargos administrativos, decidi reorientar minha carreira, com o objetivo de retornar à profissão de TI e contribuir com minha experiência adquirida. Ganhei minha certificação Full Stack Web Developer há três anos e comecei a trabalhar em uma empresa EdTech.
+Atualmente atuo como professor de tecnologia na Digital House e ministro aulas de Full Stack, Bancos de Dados e Introdução à Computação.
+Minha stack atual é MERN, trabalho com MySQL, Express, React e Node, mas atualizo meus conhecimentos constantemente.
+Tenho dívidas pendentes de desenvolvimento, gostaria de trabalhar como desenvolvedor em uma empresa de tecnologia.
+Este repositório é uma prova de minhas habilidades. Bem-vindo!! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veronicajujuy&label=Profile%20views&color=0e75b6&style=flat" alt="veronicajujuy" /> </p>
 
@@ -28,18 +35,19 @@ const veronica = {
 ```
 
 - 💬 Ask me about **JavaScript, React, React-Native, Redux, Hooks, Node, Express, Sequelize, PostgreSQL, MySQL, and more from web development**
+- 💬 Pergunte-me sobre **JavaScript, React, React-Native, Redux, Hooks, Node, Express, Sequelize, PostgreSQL, MySQL, e muito mais de desenvolvimento web**
 
 - 📫 How to reach me **veronica.jujuy@gmail.com**
+- 📫 Como entrar em contato comigo **veronica.jujuy@gmail.com**
 
-- ⚡ Fun fact: **I'm usually program with my cat Lucifer over my lap 😸**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: / Contate-me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vmvaldez/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vmvaldez/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_verojujuy/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_verojujuy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:/ 
+Linguagens e ferramentas de programação:</h3>
 <p align="left"> 
     
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
