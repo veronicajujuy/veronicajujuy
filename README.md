@@ -19,7 +19,7 @@ Este repositório é uma prova de minhas habilidades. Bem-vindo!! </h3>
 ```javascript
 const veronica = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS],
+   code: [Java, Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "React-Native"],
@@ -27,15 +27,13 @@ const veronica = {
       },
       backEnd: {
          js: ["Node", "Express"],
+         java: ["SpringBoot", "Spring Security", "Junit5", "Maven"],
       },
-      databases: ["PostgreSQL", "MySQL"]
+      databases: ["PostgreSQL", "MySQL", "Oracle"]
    },
    currentOccupation: ["teacher on a Developer Academy"],
 };
 ```
-
-- 💬 Ask me about **JavaScript, React, React-Native, Redux, Hooks, Node, Express, Sequelize, PostgreSQL, MySQL, and more from web development**
-- 💬 Pergunte-me sobre **JavaScript, React, React-Native, Redux, Hooks, Node, Express, Sequelize, PostgreSQL, MySQL, e muito mais de desenvolvimento web**
 
 - 📫 How to reach me **veronica.jujuy@gmail.com**
 - 📫 Como entrar em contato comigo **veronica.jujuy@gmail.com**
