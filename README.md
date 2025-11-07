@@ -1,58 +1,128 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/66653416/101537284-fa69dd00-3979-11eb-8512-38b0b3cc9030.jpeg" width="854" /></p>
-<h1 align="center"> 👋 Hi, I'm Veronica Valdez  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
-<h3 align="center">Good morning, I'm Verónica Valdez, Analyst Programmer and Full Stack web Developer, graduated from the National University of Jujuy in Argentina. 
-After years of experience in institutional liaison, organization of events and student groups, I decided to redirect my career, with the aim of returning to my profession in IT, and bring my acquired experience. I got certified as a Full Stack web developer three years ago and started working in an EdTech company.
-Currently I work as a technology teacher at Digital House and I teach Backend, POO, Full Stack, Database and Introduction to Computer Science.
-In JavaScript my stack is MERN, I work with MySQL, Express, React and Node, but I am constantly updating my knowledge. Also Learn and develop in Java with SpringBoot, Spring Security, using Junit5, Maven and others.
-This repository is a prove of my new skills. Welcome!!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veronicajujuy&label=Profile%20views&color=0e75b6&style=flat" alt="veronicajujuy" /> </p>
-
-
-```javascript
-const veronica = {
-   pronouns: "she" | "her",
-   code: [Java, Javascript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React", "React-Native"],
-         css: ["Bootstrap", "Material Design", "React-Bootstrap"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         java: ["SpringBoot", "Spring Security", "Junit5", "Maven"],
-      },
-      databases: ["PostgreSQL", "MySQL", "Oracle"]
-   },
-   currentOccupation: ["teacher on a Developer Academy"],
-};
-```
-
-- 📫 How to reach me **veronica.jujuy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vmvaldez/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vmvaldez/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_verojujuy/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_verojujuy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66653416/101537284-fa69dd00-3979-11eb-8512-38b0b3cc9030.jpeg" width="854" />
 </p>
 
-<h3 align="left">Languages and Tools:/ 
-<p align="left"> 
-    
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+# 👋 ¡Hola! Soy Verónica Valdez - Backend Developer & Tech Educator 💻
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</p>
+
+<p align="center">
+  <b>Analista Programadora y Backend Developer</b> especializada en <b>Java</b>, <b>Spring Boot</b> y <b>microservicios</b>.<br/>
+  Con experiencia en <b>automatización de procesos</b>, <b>análisis de datos</b> y <b>mentoría técnica</b>.<br/>
+  Actualmente docente en <b>Digital House</b> en las áreas de Backend, POO y Bases de Datos.
+</p>
+
+---
+
+### 🚀 Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservicios-0A66C2?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</p>
+
+---
+
+### ☕ Un poco sobre mí
+
+Soy una desarrolladora apasionada por el backend y la arquitectura de software moderna.  
+Disfruto construir sistemas escalables y limpios, aplicando buenas prácticas, patrones de diseño y automatización.  
+Combino mi experiencia técnica con la docencia, ayudando a futuros desarrolladores a dar sus primeros pasos en el mundo IT.  
+
+---
+
+### 🧩 Sobre mi
+
+```java
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class VeronicaValdez {
+
+    private static final Logger logger = LoggerFactory.getLogger(VeronicaValdez.class);
+
+    public static void main(String[] args) {
+        logger.info("👋 ¡Hola! Soy Vero Valdez — Backend Developer & Tech Educator 💻");
+        logger.info("🌱 Especialista en Java, Spring Boot, WebFlux y Microservicios.");
+        logger.info("💡 Apasionada por la arquitectura limpia, automatización y mentoring técnico.");
+        logger.info("🚀 Actualmente soy CM Técnico con especialización en Backend y revisora de proyectos en Digital House.");
+        
+        experiencia();
+    }
+
+    // Experiencia resumida 🧠
+    private static void experiencia() {
+        logger.info("⭐ +4 años de experiencia en desarrollo backend y mentoría técnica.");
+        logger.info("⭐ Diseño de APIs REST reactivas con Spring WebFlux.");
+        logger.info("⭐ Implementación de microservicios y despliegue en Docker + AWS.");
+    }
+}
+
+```
+---
+💼 Stack Tecnológico
+🚀 Backend y Arquitectura
+<p align="left"> <img src="https://img.shields.io/badge/Java_21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/> <img src="https://img.shields.io/badge/Mockito-DB7093?style=for-the-badge&logo=testinglibrary&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/MapStruct-4CAF50?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Lombok-A4373A?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Microservicios-0A66C2?style=for-the-badge&logo=microgenetics&logoColor=white"/> </p>
+🧰 Bases de Datos
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/JPA_&_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/R2DBC-009688?style=for-the-badge&logo=spring&logoColor=white"/> </p>
+🐳 DevOps y Cloud
+<p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
+📊 Automatización y Data
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/ETL/Automation-8A2BE2?style=for-the-badge&logo=apacheairflow&logoColor=white"/> </p>
+🤖 Inteligencia Artificial y Automatización Inteligente
+<p align="left"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>  <img src="https://img.shields.io/badge/Make(Zapier)-8C52FF?style=for-the-badge&logo=zapier&logoColor=white"/> </p>
+🎓 Docencia, Mentoría y Gestión
+<p align="left"> <img src="https://img.shields.io/badge/Agile/Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Mentoría_Técnica-FFD43B?style=for-the-badge&logo=supervisoraccount&logoColor=white"/> <img src="https://img.shields.io/badge/Workshop_Design-FF6F00?style=for-the-badge&logo=googleclassroom&logoColor=white"/> <img src="https://img.shields.io/badge/Product_Owner-4CAF50?style=for-the-badge&logo=atlassian&logoColor=white"/> </p>
+
+---
+
+### 🛠️ Proyectos Destacados
+
+#### 🔹 Sistema Automatizado de Participación — Digital House  
+**Stack:** Spring WebFlux · Microservicios · MySQL · GitHub API  
+- Automatiza el seguimiento de participación en proyectos grupales mediante análisis de commits y ramas.  
+- Permite generar métricas objetivas de colaboración estudiantil.  
+
+#### 🔹 Extensión “Tomar Asistencia” — Chrome Extension  
+**Stack:** JavaScript · Web Scraping · Automatización  
+- Optimiza el registro de asistencia en clases virtuales.  
+- Reducción del tiempo de 30 min a menos de 5 min por clase.  
+
+---
+
+### 🌍 Conectemos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vmvaldez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/veronicajujuy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://porfolio-vero-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+📫 **Correo:** [veronica.jujuy@gmail.com](mailto:veronica.jujuy@gmail.com)
+
+---
+
+<p align="center">
+  <i>“El código es más que instrucciones: es una forma de crear y enseñar.” 💜</i>
+</p>
 
 
 </br></br>
