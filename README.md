@@ -135,6 +135,11 @@ public class VeronicaValdez {
 
 ### 🛠️ Proyectos Destacados
 
+#### 🔹 Migración Java 21 → Java 25 con OpenRewrite
+**Stack:** Java · Spring Boot · Maven · OpenRewrite
+- Guía práctica basada en casos reales: prerequisitos, ejecución de la receta de migración, errores frecuentes (Lombok, compiler plugin, JAVA_HOME) y matriz de versiones compatibles.
+- [Ver repositorio →](https://github.com/veronicajujuy/Migracion-Java21-java25)
+
 #### 🔹 Pipeline de datos de vuelos — AzureFlightPipeline
 **Stack:** Azure Data Factory · Databricks · PySpark · Delta Lake · Arquitectura Medallion
 - Pipeline end-to-end sobre vuelos comerciales en el norte argentino, de extremo a extremo (Bronze → Silver → Gold).
