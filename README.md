@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66653416/101537284-fa69dd00-3979-11eb-8512-38b0b3cc9030.jpeg" width="854" />
+  <img src="https://github.com/veronicajujuy/veronicajujuy/blob/main/banner.png"  />
 </p>
 
 # 👋 ¡Hola! Soy Verónica Valdez
